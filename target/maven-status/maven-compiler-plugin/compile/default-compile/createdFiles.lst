@@ -1,0 +1,6 @@
+com\satyam\model\Person.class
+com\satyam\controller\PersonController.class
+com\satyam\repository\PersonRepository.class
+com\satyam\service\PersonServiceImpl.class
+com\satyam\Application.class
+com\satyam\service\PersonService.class
